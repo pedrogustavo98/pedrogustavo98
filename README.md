@@ -8,7 +8,7 @@
 
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <picture>
+  <picture style="width: 230px;">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=pedrogustavo98&show_icons=true&theme=dracula"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
