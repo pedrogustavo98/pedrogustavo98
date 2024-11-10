@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro Gustavo 👋
 
-- 💻 Hoje trabalho com FullStack
+- 💻 Hoje trabalho comp FullStack
 - 🚀 Entusiasta e apaixonado por tecnologia buscando evoluir sempre
 - 📚 Aprofundando meus conhecimentos em TypeScript
 - 🌍 Apaixonado em viajar
